@@ -10,7 +10,7 @@ id,category_id,name,blueprint_path,
 0009,dino,Dinopithecus,/Game/LostIsland/Dinos/Dinopithecus/Dinopithecus_Character_BP.Dinopithecus_Character_BP,
 0010,dino,Lightning Wyvern,/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning,
 0011,dino,Stegosaurus,/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP,
-0012,dino,Maeguana,/Game/ASA/Dinos/Maelizard/Maelizard_Character_BP.Maelizard_Character_BP,Astraeos
+0012,dino,Maeguana,/Game/ASA/Dinos/Maelizard/Maelizard_Character_BP.Maelizard_Character_BP,
 0013,dino,Yeti,/Game/PrimalEarth/Dinos/Bigfoot/Yeti_Character_BP.Yeti_Character_BP,
 0014,dino,Skeletal Rex,/Game/PrimalEarth/Dinos/Rex/Bone_MegaRex_Character_BP.Bone_MegaRex_Character_BP,
 0015,dino,Skeletal Carnotaurus,/Game/PrimalEarth/Dinos/Carno/Bone_MegaCarno_Character_BP.Bone_MegaCarno_Character_BP,
